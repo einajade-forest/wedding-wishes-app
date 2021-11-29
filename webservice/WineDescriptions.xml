@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WineDescriptions xmlns="https://github.com/einajade-forest/WW-Wines" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/einajade-forest/WW-Wines WineDescriptions.xsd">
+  <WineDescription Id="1">
+    <Text>Rich, softly sweet and smooth, perfectly balanced, with a long and elegant finish... Should be enjoyed slightly chilled and pairs extremely well with nuts, dried fruits and fruitcake but also with vanilla ice cream or creme brulee.</Text>
+    <Source>Vintage and Fine Wines, Graham's 20 Year Old Tawny Port - Jeroboam</Source>
+  </WineDescription>
+  <WineDescription Id="2">
+    <Text>Seek out these wines for simple, everyday drinking. They’re not something to over-intellectualise. Wine doesn't have to be that highbrow — this is about enjoyment.</Text>
+    <Source>Tamara Grischy (Dan Murphy’s wine panel), Cat Amongst The Pigeons Barossa Grenache Shiraz Mataró</Source>
+  </WineDescription>
+  <WineDescription Id="3">
+    <Text>The palate is rich and plush with good structure. There is a concentrated layer of berry fruit and oak which is balanced with the fine tannins to give length and power while finishing soft and full of flavour.</Text>
+    <Source>Dan Murphy's, Pepperjack Barossa Shiraz</Source>
+  </WineDescription>
+  <WineDescription Id="4">
+    <Text>A colour of pale yellow gold, intense with reflected tints of rich red-gold. Delicate mousse, lively with small bubbles. On the nose the aromas are fine delicate and complex, with notes of apple and pear suggesting the fruity style to come on the palate which has plenty of fresh attack, lots of life, and is yet supple, round and most refreshing on the finish.</Text>
+    <Source>Dan Murphy's, Joseph Perrier Cuvée Royale Champagne Brut</Source>
+  </WineDescription>
+  <WineDescription Id="5">
+    <Text>A delightful reminder of of the warmer months with its aromas of musk and freshly crushed grapes. Wonderfully spritzy on the palate, this aromatic sweet white has abundant flavours of sherbet and crunchy tropical fruits. Enjoy chilled with great friends.</Text>
+    <Source>Dan Murphy's, Brown Brothers Moscato</Source>
+  </WineDescription>
+</WineDescriptions>

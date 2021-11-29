@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topics xmlns="https://github.com/einajade-forest/WW-Topics" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/einajade-forest/WW-Topics Topics.xsd">
+  <Topic Id="1">
+    <Text>First reactions</Text>
+  </Topic>
+  <Topic Id="2">
+    <Text>Favourite memory/memories during the courtship</Text>
+  </Topic>
+  <Topic Id="3">
+    <Text>Highlight of today</Text>
+  </Topic>
+  <Topic Id="4">
+    <Text>"Improvements" since the couple met</Text>
+  </Topic>
+  <Topic Id="5">
+    <Text>Previously mentioned future plans / Building a life together</Text>
+  </Topic>
+  <Topic Id="6">
+    <Text>New beginnings</Text>
+  </Topic>
+  <Topic Id="7">
+    <Text>Family expectations (humour)</Text>
+  </Topic>
+  <Topic Id="8">
+    <Text>Children</Text>
+  </Topic>
+  <Topic Id="9">
+    <Text>Rhyming phrases like "Happy wife, happy life"</Text>
+  </Topic>
+  <Topic Id="10">
+    <Text>{Future} Similarities with own parents</Text>
+  </Topic>
+  <Topic Id="11">
+    <Text>Health benefits of marriage - there was a UK study presented in 2016, that found being married could improve your likelihood of surviving a heart attack and is associated with reduced length of hospital stay </Text>
+  </Topic>
+</Topics>
