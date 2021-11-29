@@ -2,7 +2,7 @@
 A React Native application to collect and seek inspiration for wedding guestbook messages.
 
 ## Purpose of this project
-This is a personal project born from the desire to practice coding and an attempt to resolve an issue that has occurred several times during the past few years - writer's block when faced with a wedding guestbook. Use by a wider audience was not the original intention.
+This is a personal project born from the desire to practise coding and an attempt to resolve an issue that has occurred several times during the past few years - writer's block when faced with a wedding guestbook. Use by a wider audience was not the original intention.
 
 ## How does it work?
 #### Items may be added to three collections:
