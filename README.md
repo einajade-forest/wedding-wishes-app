@@ -10,10 +10,14 @@ This is a personal project born from the desire to practice coding and an attemp
 - Quotes
 - Descriptions of Wine
 
+![Snapshot of the Add More screen](https://github.com/einajade-forest/wedding-wishes-app/blob/6a51389aa05de882c85f20d07a16c84dc989dca6/snapshots/WW_AddMoreScreen.PNG)
+
 #### When inspiration is required:
 1. Select the desired prompt category from the tab navigation bar.
 2. Random item from the associated collection will be displayed.
-3. If the displayed is not appropriate for the circumstance, click "Try Again" for another item of the same category or select a different category from the tab navigation bar.
+3. If the displayed is not appropriate for the circumstance, click "Try Another" for another item of the same category or select a different category from the tab navigation bar.
+
+![Example of a random topics prompt](https://github.com/einajade-forest/wedding-wishes-app/blob/6a51389aa05de882c85f20d07a16c84dc989dca6/snapshots/WW_TopicsScreen.PNG)
 
 ## Included files
 This repository contains:
